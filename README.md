@@ -12,7 +12,7 @@
 - [License](#License)
 
 ## Inspiration
-MIT 물리 강의 유튜브 영상에서 소개된 창의적인 교육용 프로그램입니다. 아래는 해당 강의의 링크와 썸네일 이미지입니다.
+MIT 물리 강의 유튜브 영상에서 소개된 창의적인 교육용 프로그램을 보고 영감을 받았습니다. 아래는 해당 강의의 링크와 썸네일 이미지입니다.
 
 [8.01x - Lect 22 - Kepler's Laws, Elliptical Orbits, Satellites, Orbital Changes](https://youtu.be/9wDAm-dlht4?si=1gOljDJfHqsrDUtq&t=2616)
 
